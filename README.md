@@ -4,6 +4,8 @@
 
 I bring 8+ years of experience across B2B IT, cloud ecosystems, product marketing at Embee Software, and lead technical writing. I’m transitioning into Product Management, connecting engineering realities, customer experience, and go-to-market execution to turn complex technology into useful products. My work spans product discovery, clear requirements, AI-enabled workflows, and adoption-minded delivery. I’m also a Lean Six Sigma Yellow Belt, with published work on Geekflare, DZone, HackerNoon, and SAP.
 
+**Live PM Portfolio:** [ruby-goyal-pm-portfolio.ai.studio](https://ruby-goyal-pm-portfolio.ai.studio)
+
 ## What I Bring to Product Teams
 
 - **Product Discovery & Specs:** Translate user and business needs into clear problem statements, PRDs, user stories, acceptance criteria, and docs-as-code.
